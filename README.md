@@ -16,3 +16,4 @@ Now that we've worked a bit with rack and middleware, it's your turn to create a
 1. I'd recommend starting each piece of middleware as simply as possible. Make it barely pass the spec. Come back later and make them interact with one another as need be.
 2. Don't jump right into trying to write the whole stack of middleware. Take it one spec at a time. Fail-fast is turned on for a reason.
 3. For the last spec, take your time. You won't need to change much code at all! You'll want to have a poke around the `env` variable that gets passed between pieces of middleware.
+<a href='https://learn.co/lessons/rack-lab' data-visibility='hidden'>View this lesson on Learn.co</a>
